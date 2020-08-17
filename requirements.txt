@@ -1,0 +1,7 @@
+bokeh==2.1.1
+fuzzywuzzy==0.18.0
+igramscraper==0.3.5
+matplotlib==3.2.2
+matplotlib-venn==0.11.5
+networkx==2.4
+pandas==1.0.4
